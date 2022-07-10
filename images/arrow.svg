@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="113" height="21" viewBox="0 0 113 21">
+    <defs>
+        <path id="mgfv8i1zma" d="M0 0.61L2 0.61 2 103.713 0 103.713z"/>
+        <path id="xxi05ysznc" d="M0 0.173L19.827 0.173 19.827 20 0 20z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="rotate(-90 10 11) translate(9.374 .5)">
+            <mask id="8j5y1zkfzb" fill="#fff">
+                <use xlink:href="#mgfv8i1zma"/>
+            </mask>
+            <path stroke="#9CCBF5" stroke-width="2" d="M0.934 0.61L1.066 103.713" mask="url(#8j5y1zkfzb)"/>
+        </g>
+        <path fill="#FFF" d="M2.374 104.002c.002 4.693 3.809 8.499 8.503 8.498 4.693-.002 8.499-3.809 8.497-8.503 0-4.693-3.808-8.499-8.502-8.497-4.694 0-8.499 3.809-8.498 8.502" transform="rotate(-90 10 11)"/>
+        <g transform="rotate(-90 10 11) translate(.374 93.5)">
+            <mask id="kty0op24bd" fill="#fff">
+                <use xlink:href="#xxi05ysznc"/>
+            </mask>
+            <path fill="#9CCBF5" d="M17.5 10.084C17.5 5.9 14.097 2.5 9.913 2.5c-4.184.002-7.585 3.404-7.584 7.589 0 4.184 3.405 7.585 7.588 7.584 4.184 0 7.586-3.404 7.585-7.589-.001-4.184 0 4.185 0 0M0 10.09C-.001 4.623 4.446.174 9.91.173c5.466-.001 9.915 4.445 9.917 9.91.002 5.467-4.445 9.915-9.912 9.917-5.464.002-9.914-4.445-9.915-9.911-.002-5.466 0 5.466 0 0" mask="url(#kty0op24bd)"/>
+        </g>
+        <path fill="#5A94DD" d="M10.375 107.5c-2.209 0-4-1.79-4.001-4 0-2.21 1.79-4 3.999-4s4 1.79 4.001 3.999c0 2.209-1.79 4.001-3.999 4.001" transform="rotate(-90 10 11)"/>
+    </g>
+</svg>
